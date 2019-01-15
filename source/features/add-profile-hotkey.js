@@ -16,6 +16,5 @@ function init() {
 
 features.add({
 	id: 'add-profile-hotkey',
-	load: features.onDomReady,
-	init
+	load: features.onDomReady
 });
